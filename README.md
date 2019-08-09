@@ -1,6 +1,6 @@
 # Eshop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+This is an online shopping e-commerce website built using Angular and Firebase.
 
 ## Development server
 
